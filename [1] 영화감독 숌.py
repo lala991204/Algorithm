@@ -1,4 +1,4 @@
-"""[1436] Movie Director Shom
+"""
 <Description>
 Movie director Shom wants to name his movie with apocalyptic numbers.
 An apocalyptic number means a number which contains successive 6 at least 3 times.
