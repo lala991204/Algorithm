@@ -5,7 +5,7 @@ An apocalyptic number means a number which contains successive 6 at least 3 time
 Print the nth movie name of his.
 
 <Variables>
-- n: The order of the series to know.
+- n: The order of the series to know (1<=n<=10,000).
 
 <Algorithm>
 Brute Force
