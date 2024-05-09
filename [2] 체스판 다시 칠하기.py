@@ -7,8 +7,8 @@ The board must be printed black and white alternately.
 Get the minimum of the sqare piece of board that we have to print again.
 
 <Variables>
-- M : a num of chessboard's row
-- N : a num of chessboard's column
+- M : a num of chessboard's row (8<=M<=50)
+- N : a num of chessboard's column (8<=N<=50)
 - board : the elements of chessboard (M*N)
 
 <Algorithm>
