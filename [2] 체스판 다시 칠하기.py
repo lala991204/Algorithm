@@ -12,7 +12,7 @@ Get the minimum of the sqare piece of board that we have to print again.
 - board : the elements of chessboard (M*N)
 
 <Algorithm>
--
+Brute Force
 """
 
 def check_min(chessboard):
