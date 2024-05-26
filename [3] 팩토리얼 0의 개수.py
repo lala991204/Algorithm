@@ -8,7 +8,7 @@ Get the number of zero until it comes out the first nonzero from the back.
 - N : natural number (0<=N<=50)
 
 <Algorithm>
--
+Brute Force
 """
 
 
