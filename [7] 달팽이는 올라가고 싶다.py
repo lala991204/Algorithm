@@ -10,6 +10,7 @@ Now, how much the days if it arrive at the peak?
 - A : the length the snail could climb during the day
 - B : the length the snail might slip at night
 - V : the length of the wooden stick
+(1 ≤ B < A ≤ V ≤ 1,000,000,000)
 
 <Algorithm>
 - Brute Force
